@@ -1,0 +1,12 @@
+<?page title="new page title" contentType="text/html;charset=UTF-8"?>
+<zk>
+	<grid hflex="1" vflex="1" sclass="sidebar" id="fnlist">
+		<columns>
+			<column width="100px" />
+			<column />
+		</columns>
+		<rows>
+			<row>ini sidebar</row>
+		</rows>
+	</grid>
+</zk>

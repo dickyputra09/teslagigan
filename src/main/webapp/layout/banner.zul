@@ -1,0 +1,13 @@
+<?page title="new page title" contentType="text/html;charset=UTF-8"?>
+<zk>
+<div hflex="1" vflex="1" sclass="banner" >
+	<hbox hflex="1" vflex="1" align="center">
+	<a href="http://www.zkoos.org/">
+		<image src="/imgs/zklogo.png" width="90px" />
+	</a>
+	<div width="400px">
+		<label value="ini banner" sclass="banner-head" />
+	</div>
+	</hbox>
+</div>
+</zk>
